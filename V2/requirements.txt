@@ -1,0 +1,15 @@
+streamlit==1.35.0
+xgboost==2.0.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.9.0
+firebase-admin==6.5.0
+pyrebase4==4.5.0
+requests==2.31.0
+python-dotenv==1.0.1
+ta==0.11.0
+joblib==1.4.2
+pytz==2024.1
+pyotp==2.9.0
+smartapi-python==1.0.4
