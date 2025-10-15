@@ -24,7 +24,17 @@ This repository contains an automated stock trading bot leveraging the power of 
 - Risk management tools including stop loss and take profit parameters
 
 ---
-
+## Backtest results on HINDUSTAN-UNILIVER-EQ 
+```
+  BACKTEST RESULTS:
+  total_pnl: 36590.0
+  total_trades: 583
+  winning_trades: 275
+  win_rate: 47.17
+  avg_pnl: 62.76
+  sharpe_ratio: 0.13
+```
+---
 ## Installation & Setup
 
 1. **Clone the repository**:
@@ -55,3 +65,4 @@ PAPER_TRADE=True
 streamlit run main.py
 
 ```
+
